@@ -46,9 +46,6 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Contact
-
-Shruti Narang - shrutinarang86@gmail.com
-
-Project Link: [https://github.com/shrutiinarang/Another_version-of-portfolio](https://github.com/shrutiinarang/Another_version-of-portfolio)
+# Project Link:
+[https://another-version-of-portfolio.vercel.app/](https://another-version-of-portfolio.vercel.app/)
 
